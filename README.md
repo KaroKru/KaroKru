@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaroKru
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, next it will be python
+- 🌱C++
 - 💞️ I’m looking to collaborate on project in C++
 
 
