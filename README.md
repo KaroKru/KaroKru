@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @KaroKru
-- 👀 I’m interested in programming
-- 🌱C++
-- 💞️ I’m looking to collaborate on project in C++
-
+- 🌱C++, Python
+- 💞️ I’m looking for a collaboration on projects in C++ and/or in Python
 
 <!---
 KaroKru/KaroKru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
