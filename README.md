@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KaroKru
 - 🌱C++, Python
+- I am in the process of building up my portfolio, the more numbers of projects will be here soon 
 - 💞️ I’m looking for a collaboration on projects in C++ and/or in Python
 
 <!---
